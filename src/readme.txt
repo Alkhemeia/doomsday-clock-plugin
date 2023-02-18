@@ -2,7 +2,7 @@
 
 Contributors:      MEMENTO MORI
 Plugin Name:       Doomsday Clock
-Plugin URI:        https://memento.mori.rip/doomsday-clock/
+Plugin URI:        https://memento.mori.rip/doomsday-clock-wordpress-plugin/
 Tags:              doomsday clock, clock, doomsday
 Author URI:        https://memento.mori.rip
 Author:            MEMENTO MORI
