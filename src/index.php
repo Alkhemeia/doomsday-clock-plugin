@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Doomsday clock
-Plugin URI: https://thebulletin.org/doomsday-clock/current-time/
+Plugin Name: MORI Doomsday Clock
+Plugin URI: https://memento.mori.rip/doomsday-clock-wordpress-plugin/
 Description: Embed a live Doomsday clock on your WordPress website.
 Author: MEMENTO MORI
-Version: 1.0.0
+Version: 1.0.1
 Author URI: https://memento.mori.rip
 
 */

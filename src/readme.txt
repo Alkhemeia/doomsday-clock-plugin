@@ -1,7 +1,7 @@
-=== Doomsday Clock ===
+=== MORI Doomsday Clock ===
 
 Contributors:      MEMENTO MORI
-Plugin Name:       Doomsday Clock
+Plugin Name:       MORI Doomsday Clock
 Plugin URI:        https://memento.mori.rip/doomsday-clock-wordpress-plugin/
 Tags:              doomsday clock, clock, doomsday
 Author URI:        https://memento.mori.rip
@@ -11,6 +11,8 @@ Requires at least: 2.3
 Tested up to:      8.2
 Stable tag:        1.0.1
 Version:           1.0.1
+License:           GPLv2 or later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 Updated 'Doomsday Clock' version, many thanks to <a href="https://thebig.co">The Big Dot Company</a> for the first version of the plugin.
